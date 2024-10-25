@@ -35,7 +35,7 @@ To run with UI (navigate to `0.0.0.0:3000` in your browser to view the UI)
 ```
 To run as cli
 ```sh
-  cd $HOME/.doppler && doppler -h
+  cd $HOME/.doppler/<release tag> && doppler -h
 ```
 More information on how to use this tool can be found here: [USAGE.md](./docs/USAGE.md)
 
